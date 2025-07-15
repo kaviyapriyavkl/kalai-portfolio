@@ -233,19 +233,19 @@
 }
 
 .portfolio-item-1 {
-  background-image: url("https://dummyimage.com/1920x1080/686868/737373");
+  background-image: url("/img/sample/Frame20.jpg");
 }
 
 .portfolio-item-2 {
-  background-image: url("https://dummyimage.com/1920x1080/414141/636363");
+  background-image: url("/img/sample/Frame23.jpg");
 }
 
 .portfolio-item-3 {
-  background-image: url("https://dummyimage.com/1920x1080/686868/737373");
+  background-image: url("/img/sample/Frame22.jpg");
 }
 
 .portfolio-item-4 {
-  background-image: url("https://dummyimage.com/1920x1080/414141/636363");
+  background-image: url("/img/sample/Frame21.jpg");
 }
 
 .portfolio-item-5 {
@@ -6369,6 +6369,16 @@ form textarea:required:valid {
   line-height: 1;
   margin-top: 1.5rem;
 }
+
+.icon-txt-space{
+   line-height: 1.2; /* or you can use px, like 24px */
+}
+
+
+.social-content-center{
+  justify-content: center !important;
+}
+
 
 .tools-card {
   padding: 3rem;
